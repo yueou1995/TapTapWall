@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{0B7A6B08-0783-4481-907D-E355AFB7C959}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TapTapWall/Info.plist">
+    <Files>
+      <File FileName="TapTapWall/ViewController.cs" Line="28" Column="23" />
+      <File FileName="TapTapWall/Game.cs" Line="43" Column="35" />
+      <File FileName="TapTapWall/ScoreBoard.cs" Line="14" Column="57" />
+      <File FileName="TapTapWall/GameHistory.cs" Line="36" Column="34" />
+      <File FileName="TapTapWall/Main.storyboard" />
+      <File FileName="TapTapWall/LaunchScreen.storyboard" />
+      <File FileName="TapTapWall/Info.plist" />
+      <File FileName="TapTapWall/BattleCell.cs" Line="14" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TapTapWall PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.3fa75b5c02db208428c66fde0afc66e7da3e19f4" automaticSigning="False" />
+  <MultiItemStartupConfigurations />
+</Properties>

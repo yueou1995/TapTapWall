@@ -1,0 +1,15 @@
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/bin/iPhoneSimulator/Debug/TapTapWall.exe
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/bin/iPhoneSimulator/Debug/TapTapWall.pdb
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/TapTapWall.csproj.CoreCompileInputs.cache
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/TapTapWall.exe
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/TapTapWall.pdb
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/BottomLost.png
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/BottomWon.png
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/TopLost.png
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/TopWon.png
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/BottomObama.png
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/TopObama.png

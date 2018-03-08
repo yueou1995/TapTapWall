@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapTapWall", "TapTapWall\TapTapWall.csproj", "{0B7A6B08-0783-4481-907D-E355AFB7C959}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B7A6B08-0783-4481-907D-E355AFB7C959}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{0B7A6B08-0783-4481-907D-E355AFB7C959}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{0B7A6B08-0783-4481-907D-E355AFB7C959}.Release|iPhone.ActiveCfg = Release|iPhone
+		{0B7A6B08-0783-4481-907D-E355AFB7C959}.Release|iPhone.Build.0 = Release|iPhone
+		{0B7A6B08-0783-4481-907D-E355AFB7C959}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{0B7A6B08-0783-4481-907D-E355AFB7C959}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{0B7A6B08-0783-4481-907D-E355AFB7C959}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{0B7A6B08-0783-4481-907D-E355AFB7C959}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
