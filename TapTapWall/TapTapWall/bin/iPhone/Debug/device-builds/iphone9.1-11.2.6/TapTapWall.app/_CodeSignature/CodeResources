@@ -4,6 +4,14 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AppIcon60x60@2x.png</key>
+		<data>
+		Dww07CDpWgQIRKJd387hkx74U5Q=
+		</data>
+		<key>Assets.car</key>
+		<data>
+		zrCutMSYtciRTnkjdy36QckEy/k=
+		</data>
 		<key>BottomLost.png</key>
 		<data>
 		v1TIujnJ4lClCDwfjPpLDShn43g=
@@ -22,11 +30,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		kDcU4u1lviWMJwuja7nq/L2GoMw=
+		N1Vv9jqZHvNdAkkzIZ/qA9E7Y4E=
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		b454kSRQIcXpNHwLqyU0Jt4aOLQ=
+		Yf89ZcV2eyC+DzCnDMsHWso2dJ4=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -34,7 +42,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		f8I11UgVFjdL2ruRGmW68GA5GBg=
+		qF3GkJR6mtlwNtpgDisR/3meUtA=
 		</data>
 		<key>Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
@@ -78,15 +86,15 @@
 		</data>
 		<key>TapTapWall.aotdata.arm64</key>
 		<data>
-		CTgGg9L9nvCbRX5iWDTyuoz3Rew=
+		vBSPU7wS2FnMmdYNIFlm8O6/hvM=
 		</data>
 		<key>TapTapWall.exe</key>
 		<data>
-		bkqKsQfdUgeHgi+mcbb+GZtc/5k=
+		r/1GTG6Kr7YZLBUqPKS81tOfyJU=
 		</data>
 		<key>TapTapWall.pdb</key>
 		<data>
-		a6vIOrEwmId6o4YXOtkwFzJLe2I=
+		Z76A2QLUN4sVbglrTv0qNuPVEYw=
 		</data>
 		<key>TopLost.png</key>
 		<data>
@@ -126,27 +134,27 @@
 		</data>
 		<key>libSystem.dll.dylib</key>
 		<data>
-		Z/m66T6L7HS3VO7Tjm8lO3N47BY=
+		fw8p1ndgtCxc9HLtWj70ircwDnQ=
 		</data>
 		<key>libTapTapWall.exe.dylib</key>
 		<data>
-		fxSQYvODfaL2Oph1zJrRNe8S4DM=
+		hpUSiMHTc41s8kbeirb6lNrxkwY=
 		</data>
 		<key>libXamarin.iOS.dll.dylib</key>
 		<data>
-		h3LSCupWhnO69Ddo5yk6ffmT5xw=
+		gGcYoRM/6VnzCg7esifS9wBYqqU=
 		</data>
 		<key>libmonosgen-2.0.dylib</key>
 		<data>
-		yPxEjFN1boQUcACDG3VEYNBDzbg=
+		7ytmeeUY2FakcwP01dqhVLBG8F8=
 		</data>
 		<key>libmscorlib.dll.dylib</key>
 		<data>
-		RiHT0snwaHa0w09Ajs6nrKERGLY=
+		4y3I+QCq3QU2YlILPTOoQIFx96w=
 		</data>
 		<key>libxamarin-debug.dylib</key>
 		<data>
-		rlOv2oPvwigFGL/VHEHz9WNTUjU=
+		QD3gM0dTpAsGMhXsLnePv9odcdw=
 		</data>
 		<key>mscorlib.aotdata.arm64</key>
 		<data>
@@ -163,6 +171,28 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AppIcon60x60@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Dww07CDpWgQIRKJd387hkx74U5Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			2r1SJOEEWrtwX8gQ68qjYU6igEwe4UaeSSjzA3ASuRA=
+			</data>
+		</dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zrCutMSYtciRTnkjdy36QckEy/k=
+			</data>
+			<key>hash2</key>
+			<data>
+			1O46cg+JtTOoStzsH1+9p9rO7M7I5nqR1bsvuOFEAyw=
+			</data>
+		</dict>
 		<key>BottomLost.png</key>
 		<dict>
 			<key>hash</key>
@@ -211,11 +241,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			b454kSRQIcXpNHwLqyU0Jt4aOLQ=
+			Yf89ZcV2eyC+DzCnDMsHWso2dJ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			SsFGu3ruuCnguhym2BLKZQjwEi4su0AvAz94819sZdA=
+			ty5XCf5ym6P1MES8PjMxhL3KhvGd4ngPb1T5XwvXJUI=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -233,11 +263,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			f8I11UgVFjdL2ruRGmW68GA5GBg=
+			qF3GkJR6mtlwNtpgDisR/3meUtA=
 			</data>
 			<key>hash2</key>
 			<data>
-			rk9TSIdEjkyvaKSquO400s9V0ljC1FS1ceD52l1UNKE=
+			ok9WHA8dK8XN8GPIUqw4fO8/3vuUfa5cR6Y5sF33dj8=
 			</data>
 		</dict>
 		<key>Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
@@ -343,33 +373,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CTgGg9L9nvCbRX5iWDTyuoz3Rew=
+			vBSPU7wS2FnMmdYNIFlm8O6/hvM=
 			</data>
 			<key>hash2</key>
 			<data>
-			s6JBLaetH/wzbGzGm26pfmHhQH7xFrY2NcSR6DsYiL8=
+			dLkJhnB/GrPj4bzqVlsjzRQdu2qELrgvG1M78HKgnQE=
 			</data>
 		</dict>
 		<key>TapTapWall.exe</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bkqKsQfdUgeHgi+mcbb+GZtc/5k=
+			r/1GTG6Kr7YZLBUqPKS81tOfyJU=
 			</data>
 			<key>hash2</key>
 			<data>
-			8Y/nsPIpx8BDVPLhyGmQudUeF7xM7bnR5pxcvYCLWQc=
+			fJKH0FGUzUZtNGJyYD10CKrZ5vvBd/lvI1m/U2dpet0=
 			</data>
 		</dict>
 		<key>TapTapWall.pdb</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			a6vIOrEwmId6o4YXOtkwFzJLe2I=
+			Z76A2QLUN4sVbglrTv0qNuPVEYw=
 			</data>
 			<key>hash2</key>
 			<data>
-			PGQpW8dOvzTyodlgeCYDOExIO4D9XySljrNOpxOt/MU=
+			1hfcfooan+OZrFRAHOXAU2RF1q55ND0Q5GsXi+QdP00=
 			</data>
 		</dict>
 		<key>TopLost.png</key>
@@ -475,66 +505,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Z/m66T6L7HS3VO7Tjm8lO3N47BY=
+			fw8p1ndgtCxc9HLtWj70ircwDnQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			S2R5QekDvC0JA8SZbDtAoOZZ3Ab0h2+MOgZdRPPM4Jc=
+			y289OnyJloxyvIgnGexEWzDcLcJmuCj+xR5PlJ4EaWk=
 			</data>
 		</dict>
 		<key>libTapTapWall.exe.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fxSQYvODfaL2Oph1zJrRNe8S4DM=
+			hpUSiMHTc41s8kbeirb6lNrxkwY=
 			</data>
 			<key>hash2</key>
 			<data>
-			TAZwj2MD15LZUSUGfPxpTPKau/iUpsyfczBq+UcXUOI=
+			3+17/mCOG8mQdQe53wGlZFU232lwl8ZZqCV8B7PZUG4=
 			</data>
 		</dict>
 		<key>libXamarin.iOS.dll.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			h3LSCupWhnO69Ddo5yk6ffmT5xw=
+			gGcYoRM/6VnzCg7esifS9wBYqqU=
 			</data>
 			<key>hash2</key>
 			<data>
-			w8RhTyVsMnLSMhBlzNoY0Jw7YEZdMDaObIIq/Ti4G3s=
+			c4Y/Vmvxc0RE45vfxziBRJ8Z9DtgIwUG6JIt6QwhGYI=
 			</data>
 		</dict>
 		<key>libmonosgen-2.0.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yPxEjFN1boQUcACDG3VEYNBDzbg=
+			7ytmeeUY2FakcwP01dqhVLBG8F8=
 			</data>
 			<key>hash2</key>
 			<data>
-			JSi+6agsBaUxzyrJ4awG0Pta+gMMW6/r+UmpcQt/7Z8=
+			FOKFxDoQoya+wczmpfzju8LSFaCE+gIEWWgZoEYYMUw=
 			</data>
 		</dict>
 		<key>libmscorlib.dll.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RiHT0snwaHa0w09Ajs6nrKERGLY=
+			4y3I+QCq3QU2YlILPTOoQIFx96w=
 			</data>
 			<key>hash2</key>
 			<data>
-			dvObfTb785k9m9suEBA1VOG5t8hhCVtNK6V60GSt7Lc=
+			N+UCOQLhgECOVKcLr6EaX2wUw0s5yU46k0ZOby2wGes=
 			</data>
 		</dict>
 		<key>libxamarin-debug.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rlOv2oPvwigFGL/VHEHz9WNTUjU=
+			QD3gM0dTpAsGMhXsLnePv9odcdw=
 			</data>
 			<key>hash2</key>
 			<data>
-			S0BGABexIDKCILtLXeT8U23/43M5t0+sZYGdpdZvG3w=
+			qko/ttvyVmZP36YCLZ5FlOMQF16cVdRCS+QdFdmEW+M=
 			</data>
 		</dict>
 		<key>mscorlib.aotdata.arm64</key>

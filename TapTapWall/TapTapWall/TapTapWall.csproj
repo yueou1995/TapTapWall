@@ -87,6 +87,13 @@
   <ItemGroup>
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json" />
     <ImageAsset Include="Assets.xcassets\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\MuffinMan 40.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\MuffinMan 60.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\MuffinMan 58.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\MuffinMan 87.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\MuffinMan 80.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\MuffinMan 180.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\MuffinMan 120.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />

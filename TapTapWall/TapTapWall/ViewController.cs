@@ -134,9 +134,9 @@ namespace TapTapWall
                     break;
                 case GameMode.TrumpMode:
                     if (isTop) {
-                        button.SetBackgroundImage(UIImage.FromBundle("TopTrump.png"), UIControlState.Normal);
+                        button.SetBackgroundImage(UIImage.FromBundle("TopTrump.jpg"), UIControlState.Normal);
                     } else {
-                        button.SetBackgroundImage(UIImage.FromBundle("BottomTrump.png"), UIControlState.Normal);
+                        button.SetBackgroundImage(UIImage.FromBundle("BottomTrump.jpg"), UIControlState.Normal);
                     }
                     break;
                 default: break;

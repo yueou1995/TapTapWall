@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{0B7A6B08-0783-4481-907D-E355AFB7C959}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TapTapWall/Info.plist">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="TapTapWall/ViewController.cs" Line="28" Column="23" />
       <File FileName="TapTapWall/Game.cs" Line="43" Column="35" />

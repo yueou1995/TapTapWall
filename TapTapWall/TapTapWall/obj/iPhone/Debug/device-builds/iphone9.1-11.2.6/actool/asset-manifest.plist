@@ -6,8 +6,49 @@
 	<dict>
 		<key>output-files</key>
 		<array>
+			<string>/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/actool/bundle/AppIcon60x60@2x.png</string>
+			<string>/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/actool/bundle/Assets.car</string>
 			<string>/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/actool/partial-info.plist</string>
 		</array>
 	</dict>
+	<key>com.apple.actool.document.warnings</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>A 76x76@2x app icon is required for iPad apps targeting iOS 7.0 and later</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>A 83.5x83.5@2x app icon is required for iPad apps targeting iOS 9.0 and later</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>A 1024x1024 app store icon is required for iOS apps</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+	</array>
 </dict>
 </plist>

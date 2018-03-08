@@ -1,35 +1,22 @@
-# Version: 11.6.1.4 (xcode9.2: db807ec9)
-# [first argument, ignore] # --cache
-/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.4/lib/mtouch/mtouch.exe \
-	/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache \
-	--sim \
-	/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/bin/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/TapTapWall.app \
-	--executable \
-	TapTapWall \
+# Version: 11.8.0.20 (d15-6: 1c6f300e)
+# [first argument, ignore] # --cache=/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.0.20/lib/mtouch/mtouch.exe \
+	--sim=/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/bin/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/TapTapWall.app \
+	--executable=TapTapWall \
 	--debug \
 	--nolink \
-	--sdkroot \
-	/Applications/Xcode.app/Contents/Developer \
-	--sdk \
-	11.2 \
-	--targetver \
-	11.2 \
+	--sdkroot=/Applications/Xcode.app/Contents/Developer \
+	--sdk=11.2 \
+	--targetver=11.2 \
 	--aot-options=-O=-float32 \
 	--http-message-handler=HttpClientHandler \
 	--abi=x86_64 \
-	--symbollist \
-	/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-symbols.list \
+	--symbollist=/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-symbols.list \
 	--dsym=no \
-	-r \
-	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
-	-r \
-	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
-	-r \
-	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
-	-r \
-	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
-	-r \
-	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
-	--target-framework \
-	'Xamarin.iOS,v1.0' \
-	/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/bin/iPhoneSimulator/Debug/TapTapWall.exe \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	'--target-framework=Xamarin.iOS,v1.0' \
+	--root-assembly=/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/bin/iPhoneSimulator/Debug/TapTapWall.exe \

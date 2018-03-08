@@ -13,3 +13,5 @@
 /Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/TopWon.png
 /Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/BottomObama.png
 /Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/TopObama.png
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/coremlc/_PartialAppManifest.items
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/coremlc/_BundleResourceWithLogicalName.items
