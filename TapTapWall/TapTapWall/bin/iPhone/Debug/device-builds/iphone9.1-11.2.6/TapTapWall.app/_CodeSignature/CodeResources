@@ -6,11 +6,11 @@
 	<dict>
 		<key>AppIcon60x60@2x.png</key>
 		<data>
-		Dww07CDpWgQIRKJd387hkx74U5Q=
+		ycGBQ8jdDGQsrr+E4mpQay11rgM=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		zrCutMSYtciRTnkjdy36QckEy/k=
+		ezORZ+gLn+34Zgr6jQUQ6wC+07Y=
 		</data>
 		<key>BottomLost.png</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		Yf89ZcV2eyC+DzCnDMsHWso2dJ4=
+		3Iuqt/DRxWy8WPG5rPvgpsMCufY=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		qF3GkJR6mtlwNtpgDisR/3meUtA=
+		LR9AVvgN+kns4s+DRQDjPwQ7BAA=
 		</data>
 		<key>Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		jG0O4o6OrJd0INtDHrgRWpTuT9w=
+		aw7hhSHKeJ4uURtPVCFU7j+T6SM=
 		</data>
 		<key>Main.storyboardc/Info.plist</key>
 		<data>
@@ -54,11 +54,15 @@
 		</data>
 		<key>Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		aHxo6BSgEPi4gPqST+vHH+2Azmc=
+		fge02LUsHmew44TfgzotF29BFrg=
 		</data>
 		<key>MonoTouchDebugConfiguration.txt</key>
 		<data>
 		cY/Bj+uDoOsvUdKvWwUMsRJmZHU=
+		</data>
+		<key>MuffinMan 180.png</key>
+		<data>
+		FxKRKrKGvyNeRM9Eh+840NFg0o4=
 		</data>
 		<key>NOTICE</key>
 		<data>
@@ -86,15 +90,15 @@
 		</data>
 		<key>TapTapWall.aotdata.arm64</key>
 		<data>
-		vBSPU7wS2FnMmdYNIFlm8O6/hvM=
+		OKJ/60EgbxHRo0Ebcbo7KZe2fjQ=
 		</data>
 		<key>TapTapWall.exe</key>
 		<data>
-		r/1GTG6Kr7YZLBUqPKS81tOfyJU=
+		nZCKQUAFv6ZwhGgPvZSPUknNAe8=
 		</data>
 		<key>TapTapWall.pdb</key>
 		<data>
-		Z76A2QLUN4sVbglrTv0qNuPVEYw=
+		qVIhtctYafREtFQ/2XZ/vBVNnA8=
 		</data>
 		<key>TopLost.png</key>
 		<data>
@@ -130,31 +134,31 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		Cgu49hCJaHrLjQ6DGKEHAwORwzw=
+		Q4MPM+ODVZBQyIFj5BbXjphJA7U=
 		</data>
 		<key>libSystem.dll.dylib</key>
 		<data>
-		fw8p1ndgtCxc9HLtWj70ircwDnQ=
+		BY+r0bHOrImjfxyTdai7SzlLHiU=
 		</data>
 		<key>libTapTapWall.exe.dylib</key>
 		<data>
-		hpUSiMHTc41s8kbeirb6lNrxkwY=
+		UX/2Gwf/IIiVZ/Zyt/EV1U8ha8o=
 		</data>
 		<key>libXamarin.iOS.dll.dylib</key>
 		<data>
-		gGcYoRM/6VnzCg7esifS9wBYqqU=
+		GZKj/hyScYbiIsYsM7GLLOChSIY=
 		</data>
 		<key>libmonosgen-2.0.dylib</key>
 		<data>
-		7ytmeeUY2FakcwP01dqhVLBG8F8=
+		2ZMwEHXzwBL2kB81tBiK43UnirA=
 		</data>
 		<key>libmscorlib.dll.dylib</key>
 		<data>
-		4y3I+QCq3QU2YlILPTOoQIFx96w=
+		EaySO4v/1LNd0MvfGlt0RfWCmlw=
 		</data>
 		<key>libxamarin-debug.dylib</key>
 		<data>
-		QD3gM0dTpAsGMhXsLnePv9odcdw=
+		LaPZiru49ud6YOeZsTpFFl12BGI=
 		</data>
 		<key>mscorlib.aotdata.arm64</key>
 		<data>
@@ -175,22 +179,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Dww07CDpWgQIRKJd387hkx74U5Q=
+			ycGBQ8jdDGQsrr+E4mpQay11rgM=
 			</data>
 			<key>hash2</key>
 			<data>
-			2r1SJOEEWrtwX8gQ68qjYU6igEwe4UaeSSjzA3ASuRA=
+			BYRvpxunP8SHI9w1962UrC4mpUs0v5z2wsSspmp7uyI=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zrCutMSYtciRTnkjdy36QckEy/k=
+			ezORZ+gLn+34Zgr6jQUQ6wC+07Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			1O46cg+JtTOoStzsH1+9p9rO7M7I5nqR1bsvuOFEAyw=
+			Q15QLWXs0SW/LV27mJd100YHM+8qtCLc44ZRxuklQI0=
 			</data>
 		</dict>
 		<key>BottomLost.png</key>
@@ -241,11 +245,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Yf89ZcV2eyC+DzCnDMsHWso2dJ4=
+			3Iuqt/DRxWy8WPG5rPvgpsMCufY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ty5XCf5ym6P1MES8PjMxhL3KhvGd4ngPb1T5XwvXJUI=
+			1BJiK5Rcrdgxf07pDGZC5riZpQ8pAv5xLFF6JHl8fjA=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -263,22 +267,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qF3GkJR6mtlwNtpgDisR/3meUtA=
+			LR9AVvgN+kns4s+DRQDjPwQ7BAA=
 			</data>
 			<key>hash2</key>
 			<data>
-			ok9WHA8dK8XN8GPIUqw4fO8/3vuUfa5cR6Y5sF33dj8=
+			aUHK+bBPrJbmSSGnqeMm2aEqPkREaPjrqEoN/uSGPtk=
 			</data>
 		</dict>
 		<key>Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jG0O4o6OrJd0INtDHrgRWpTuT9w=
+			aw7hhSHKeJ4uURtPVCFU7j+T6SM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZA6JIqxy8kFLhp58u2k24gvpLUfRG53hAqqV1r+vn+U=
+			cMSQ93/Ov58hlG3hyIE57LSCjw457PBa7mBOAWjogMM=
 			</data>
 		</dict>
 		<key>Main.storyboardc/Info.plist</key>
@@ -296,11 +300,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aHxo6BSgEPi4gPqST+vHH+2Azmc=
+			fge02LUsHmew44TfgzotF29BFrg=
 			</data>
 			<key>hash2</key>
 			<data>
-			+lmQRkJzrgzwo3lLEw/3nby3wSktzWtEx4hSrnIRsu4=
+			q/ZTqHURhdcHIzOw7/D2UUtSimtNzEGb3Gmacd66P5k=
 			</data>
 		</dict>
 		<key>MonoTouchDebugConfiguration.txt</key>
@@ -312,6 +316,17 @@
 			<key>hash2</key>
 			<data>
 			ytEBCwSH+psf3ysb+fFGzEuwvVBZefO20AX3JbYE0tM=
+			</data>
+		</dict>
+		<key>MuffinMan 180.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FxKRKrKGvyNeRM9Eh+840NFg0o4=
+			</data>
+			<key>hash2</key>
+			<data>
+			qrkSQKa/LXpJkcvuYnFGJsA7zeEb8b9XPUw36wvx77Y=
 			</data>
 		</dict>
 		<key>NOTICE</key>
@@ -373,33 +388,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vBSPU7wS2FnMmdYNIFlm8O6/hvM=
+			OKJ/60EgbxHRo0Ebcbo7KZe2fjQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			dLkJhnB/GrPj4bzqVlsjzRQdu2qELrgvG1M78HKgnQE=
+			OgZIG5gC9ChJ65QSuI8kYnDFzXA6Iiwvoo+5hIu6Vlc=
 			</data>
 		</dict>
 		<key>TapTapWall.exe</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			r/1GTG6Kr7YZLBUqPKS81tOfyJU=
+			nZCKQUAFv6ZwhGgPvZSPUknNAe8=
 			</data>
 			<key>hash2</key>
 			<data>
-			fJKH0FGUzUZtNGJyYD10CKrZ5vvBd/lvI1m/U2dpet0=
+			6XaIhJY9CKihsgpduCdIQxnMQ5DdESNcfYlm1nCdj/U=
 			</data>
 		</dict>
 		<key>TapTapWall.pdb</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Z76A2QLUN4sVbglrTv0qNuPVEYw=
+			qVIhtctYafREtFQ/2XZ/vBVNnA8=
 			</data>
 			<key>hash2</key>
 			<data>
-			1hfcfooan+OZrFRAHOXAU2RF1q55ND0Q5GsXi+QdP00=
+			9vIxNWcYC+a+7elc2E52/VK8nSiJZDIl7ckeHHiFQ5k=
 			</data>
 		</dict>
 		<key>TopLost.png</key>
@@ -494,77 +509,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Cgu49hCJaHrLjQ6DGKEHAwORwzw=
+			Q4MPM+ODVZBQyIFj5BbXjphJA7U=
 			</data>
 			<key>hash2</key>
 			<data>
-			6asW500Nu8q+c9CQEbHfGjRomA/JuFEsTD/XoAkdCAs=
+			fbWJNN6wy72DskDFEUsZ8lhgRaqTN43Yh7jUnCLwY+U=
 			</data>
 		</dict>
 		<key>libSystem.dll.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fw8p1ndgtCxc9HLtWj70ircwDnQ=
+			BY+r0bHOrImjfxyTdai7SzlLHiU=
 			</data>
 			<key>hash2</key>
 			<data>
-			y289OnyJloxyvIgnGexEWzDcLcJmuCj+xR5PlJ4EaWk=
+			S3+An3xNDH4GZt/yGpu5t5GC5M3KH4F7v6ZVgkU5nKs=
 			</data>
 		</dict>
 		<key>libTapTapWall.exe.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hpUSiMHTc41s8kbeirb6lNrxkwY=
+			UX/2Gwf/IIiVZ/Zyt/EV1U8ha8o=
 			</data>
 			<key>hash2</key>
 			<data>
-			3+17/mCOG8mQdQe53wGlZFU232lwl8ZZqCV8B7PZUG4=
+			GV4Pp2QZ/TC8UX2wgx5MfxX0xWtRPYX6t/zcwtVVYck=
 			</data>
 		</dict>
 		<key>libXamarin.iOS.dll.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gGcYoRM/6VnzCg7esifS9wBYqqU=
+			GZKj/hyScYbiIsYsM7GLLOChSIY=
 			</data>
 			<key>hash2</key>
 			<data>
-			c4Y/Vmvxc0RE45vfxziBRJ8Z9DtgIwUG6JIt6QwhGYI=
+			rQPOPN+yJNCs8EHzXY+Jq2VyFhVxYzLPW4GcLAsHuwY=
 			</data>
 		</dict>
 		<key>libmonosgen-2.0.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7ytmeeUY2FakcwP01dqhVLBG8F8=
+			2ZMwEHXzwBL2kB81tBiK43UnirA=
 			</data>
 			<key>hash2</key>
 			<data>
-			FOKFxDoQoya+wczmpfzju8LSFaCE+gIEWWgZoEYYMUw=
+			grOkKAju9hv1hbvkjSUnRbnyD+bpqGq9XF89IAS/iXI=
 			</data>
 		</dict>
 		<key>libmscorlib.dll.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4y3I+QCq3QU2YlILPTOoQIFx96w=
+			EaySO4v/1LNd0MvfGlt0RfWCmlw=
 			</data>
 			<key>hash2</key>
 			<data>
-			N+UCOQLhgECOVKcLr6EaX2wUw0s5yU46k0ZOby2wGes=
+			lLR+xpWBYKwaZAGqu/6xcRGzWbOqin4BmbO0vP4CGAU=
 			</data>
 		</dict>
 		<key>libxamarin-debug.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QD3gM0dTpAsGMhXsLnePv9odcdw=
+			LaPZiru49ud6YOeZsTpFFl12BGI=
 			</data>
 			<key>hash2</key>
 			<data>
-			qko/ttvyVmZP36YCLZ5FlOMQF16cVdRCS+QdFdmEW+M=
+			MH/UzmLGvL9gwf6IdwCmZQiHDtgooVaOnolCjZ0BTWY=
 			</data>
 		</dict>
 		<key>mscorlib.aotdata.arm64</key>

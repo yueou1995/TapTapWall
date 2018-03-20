@@ -93,7 +93,7 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\MuffinMan 87.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\MuffinMan 80.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\MuffinMan 180.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\MuffinMan 120.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\logo%40120.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
@@ -132,6 +132,7 @@
     <BundleResource Include="Resources\BottomTrump.jpg" />
     <BundleResource Include="Resources\TopObama.png" />
     <BundleResource Include="Resources\TopTrump.jpg" />
+    <BundleResource Include="Resources\MuffinMan 180.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>

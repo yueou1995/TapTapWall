@@ -21,13 +21,10 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="center" id="246" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" text=":)">
-                                <rect key="frame" x="68" y="310" width="240" height="106"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="1040" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" image="MuffinMan 180.png">
+                                <rect key="frame" x="112" y="258" width="151" height="151"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="44"/>
-                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
-                            </textView>
+                            </imageView>
                         </subviews>
                     </view>
                 </viewController>
@@ -45,5 +42,6 @@
         <image name="BottomTrump.jpg" width="1702" height="1702"/>
         <image name="TopObama.png" width="1265" height="1265"/>
         <image name="TopTrump.jpg" width="1702" height="1702"/>
+        <image name="MuffinMan 180.png" width="180" height="180"/>
     </resources>
 </document>

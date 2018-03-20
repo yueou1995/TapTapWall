@@ -22553,7 +22553,7 @@ runtime_version:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "A3AE2C75-DC17-4DFD-AC13-537EC13E62F7"
+	.asciz "7343D1D8-8388-4901-A894-8AB7FFC9723D"
 .section __TEXT, __const
 	.align 2
 assembly_name:
@@ -22636,7 +22636,7 @@ _mono_aot_file_info:
 	.long 336,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0
-	.byte 209,94,96,151,160,196,229,242,213,67,115,102,9,229,46,222
+	.byte 211,229,59,189,97,108,7,22,88,185,211,175,57,191,32,4
 	.globl _mono_aot_module_TapTapWall_info
 	.align 3
 _mono_aot_module_TapTapWall_info:

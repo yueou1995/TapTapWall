@@ -49,6 +49,30 @@
 			<key>type</key>
 			<string>Missing Content</string>
 		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][iphone][40x40][][][3x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "MuffinMan 120.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][iphone][40x40][][][3x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "MuffinMan 120.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
 	</array>
 </dict>
 </plist>

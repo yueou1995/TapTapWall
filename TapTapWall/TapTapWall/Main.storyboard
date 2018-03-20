@@ -732,5 +732,6 @@
         <image name="BottomTrump.jpg" width="1702" height="1702"/>
         <image name="TopObama.png" width="1265" height="1265"/>
         <image name="TopTrump.jpg" width="1702" height="1702"/>
+        <image name="MuffinMan 180.png" width="180" height="180"/>
     </resources>
 </document>

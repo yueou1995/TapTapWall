@@ -1,12 +1,10 @@
 /Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/bin/iPhone/Debug/TapTapWall.exe
 /Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/bin/iPhone/Debug/TapTapWall.pdb
-/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/TapTapWall.csproj.CoreCompileInputs.cache
-/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/TapTapWall.exe
-/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/TapTapWall.pdb
-/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/TapTapWall.csprojResolveAssemblyReference.cache
 /Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/ibtool/_BundleResourceWithLogicalName.items
 /Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/actool/_PartialAppManifest.items
 /Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/actool/_BundleResourceWithLogicalName.items
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/coremlc/_PartialAppManifest.items
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/coremlc/_BundleResourceWithLogicalName.items
 /Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/optimized/BottomLost.png
 /Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/optimized/BottomWon.png
 /Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/optimized/TopLost.png
@@ -14,5 +12,7 @@
 /Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/optimized/BottomObama.png
 /Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/optimized/TopObama.png
 /Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/optimized/
-/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/coremlc/_PartialAppManifest.items
-/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/coremlc/_BundleResourceWithLogicalName.items
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/TapTapWall.csproj.CoreCompileInputs.cache
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/TapTapWall.exe
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/TapTapWall.pdb
+/Users/yueou/Documents/Programming/Xamarin/3TapTapWall/TapTapWall/TapTapWall/obj/iPhone/Debug/device-builds/iphone9.1-11.2.6/optimized/MuffinMan 180.png
